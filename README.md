@@ -1,5 +1,25 @@
 # anchorManipulator
-Adobe After Effects Anchor Manipulator. Move anchor and preserve position, move object around anchor. Respect to scale property.
+Adobe After Effects Anchor Manipulator via keyboard shortcuts. Move anchor and preserve position, move object around anchor. Respect to scale property.
+
+### Usage
+
+Use numpad and either Ctrl or Alt dependent to your task.
+
+###### Ctrl — to shift anchor point:
+
+![Ctrl usage](https://goopie.pro/images/lab/anchorManipulator/usageCtrl.png "Ctrl usage")
+
+###### Alt — to shift object:
+
+![Alt usage](https://goopie.pro/images/lab/anchorManipulator/usageAlt.png "Alt usage")
+
+### Special cases
+
+Sometimes we need anchor point in methemathical zero center (for example to correct rotation), not in center of visual rectangle.
+
+###### Special shortcuts:
+
+![Special case centering](https://goopie.pro/images/lab/anchorManipulator/centeringSpecialCase.png "Special case centering")
 
 ### Installation
 
@@ -42,22 +62,3 @@ Save settings file and restart AE.
 
 Enjoy! =)
 
-### Usage
-
-Use numpad and either Ctrl or Alt dependent to your task.
-
-###### Ctrl — to shift anchor point:
-
-![Ctrl usage](https://goopie.pro/images/lab/anchorManipulator/usageCtrl.png "Ctrl usage")
-
-###### Alt — to shift object:
-
-![Alt usage](https://goopie.pro/images/lab/anchorManipulator/usageAlt.png "Alt usage")
-
-### Special cases
-
-Sometimes we need anchor point in methemathical zero center (for example to correct rotation), not in center of visual rectangle. 
-
-###### Special shortcuts:
-
-![Special case centering](https://goopie.pro/images/lab/anchorManipulator/centeringSpecialCase.png "Special case centering")

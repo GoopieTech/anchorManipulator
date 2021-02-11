@@ -52,7 +52,7 @@ Find our record with `ExecuteScriptMenuItem` text, replace shortcut command to t
 
 ![Find target row and replace shortcuts](https://goopie.pro/images/lab/anchorManipulator/findAndReplace.png "Find target row and replace shortcuts")
 
-`"ExecuteScriptMenuItem16" = "(Ctrl+Alt+PadMultiply)(Ctrl+PadMultiply)(Ctrl+Pad1)(Ctrl+Pad2)(C"\
+`"(Ctrl+Alt+PadMultiply)(Ctrl+PadMultiply)(Ctrl+Pad1)(Ctrl+Pad2)(C"\
 "trl+Pad3)(Ctrl+Pad4)(Ctrl+Pad5)(Ctrl+Pad6)(Ctrl+Pad7)(Ctrl+Pad8)(Ctrl+Pad9)(Al"\
 "t+Pad1)(Alt+Pad2)(Alt+Pad3)(Alt+Pad4)(Alt+Pad5)(Alt+Pad6)(Alt+Pad7)(Alt+Pad8)("\
 "Alt+Pad9)(Ctrl+PadPageUp)(Ctrl+PadPageDown)(Ctrl+PadHome)(Ctrl+PadEnd)(Alt+Pad"\
